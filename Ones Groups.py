@@ -1,4 +1,8 @@
 #!/bin/python3
+#In a square grid, two cells are connected if they share an edge and share the same value. Sharing an edge is up, down, left and right, 
+#but not diagonal. Given a square grid, determine the number of cells in each connected group of values. There will be an array of queries, each one an integer. 
+#Create a return array of integers where each element is the number of groups in the matrix that have a size that matches the query.
+
 
 import math
 import os
